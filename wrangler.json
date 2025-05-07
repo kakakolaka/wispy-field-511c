@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "wispy-field-511c",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a8dfac15-e2cc-4053-ac33-5e0f7da26338",
+      "database_name": "autumn-moon-953c-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
